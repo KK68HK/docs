@@ -15,7 +15,7 @@
     "@notionhq/client": "^2.2.3",
     "@offchainlabs/notion-docs-generator": "^0.0.3",
     "@types/node": "^18.11.18",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.4.5",
     "typescript": "^4.9.4"
   },
   "devDependencies": {
